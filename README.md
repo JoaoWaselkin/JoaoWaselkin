@@ -3,9 +3,9 @@
 
 Olá! Meu nome é João Roberto e sou curioso sobre tudo.
 
-📚 Estudando Back-End, Java, Spring, SQL.
+📚 Estudando Back-End, Java, JavaScript, SQL.
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UniFecaf
+🎓 Graduando em Análise e Desenvolvimento de Sistemas pela UniFecaf
 
 Aqui estão algumas linguagens com as quais tenho conhecimento/experiência 👇
 
