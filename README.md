@@ -5,8 +5,6 @@ Olá! Meu nome é João Roberto e sou curioso sobre tudo.
 
 📚 Estudando Back-End, Java, Spring, SQL.
 
-🔠 Nível de Inglês Avançado C1-C2
-
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UniFecaf
 
 Aqui estão algumas linguagens com as quais tenho conhecimento/experiência 👇
