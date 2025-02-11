@@ -11,8 +11,6 @@ Aqui estão algumas linguagens com as quais tenho conhecimento/experiência 👇
 
 Java,SQL,Python,HTML,CSS,JavaScript,
 
-Se precisar de mais alguma coisa, estou à disposição! :)
-
 
 
 <!--
