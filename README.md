@@ -1,4 +1,21 @@
-## Hi there 👋
+## System.out.println("Bem-vindo ao meu Github!") 🥇
+
+
+Olá! Meu nome é João Roberto e sou curioso sobre tudo.
+
+📚 Estudando Back-End, Java, Spring, SQL.
+
+🔠 Nível de Inglês Avançado C1-C2
+
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela UniFecaf
+
+Aqui estão algumas linguagens com as quais tenho conhecimento/experiência 👇
+
+Java,SQL,Python,HTML,CSS,JavaScript,
+
+Se precisar de mais alguma coisa, estou à disposição! :)
+
+
 
 <!--
 **JoaoWaselkin/JoaoWaselkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
